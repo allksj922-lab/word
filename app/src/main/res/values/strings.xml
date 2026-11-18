@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WordChain</string>
+    <string name="hero_banner_cd">WordChain 영어 끝말잇기 일러스트 배너</string>
+    <string name="nav_home">홈</string>
+    <string name="nav_dictionary">단어장</string>
+    <string name="level_beginner">초급</string>
+    <string name="level_intermediate">중급</string>
+    <string name="level_advanced">고급</string>
+    <string name="start_game">게임 시작</string>
+    <string name="hint_button">힌트</string>
+    <string name="submit_word">제출</string>
+    <string name="restart_game">새 게임</string>
+</resources>

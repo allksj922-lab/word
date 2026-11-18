@@ -1,0 +1,6 @@
+{
+  "name": "WordChain",
+  "description": "초급·중급·고급 수준별 영어 단어로 즐기는 스마트 영어 끝말잇기 학습 게임 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
